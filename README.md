@@ -1,2 +1,2 @@
 linear regression
-logistic regression
+
